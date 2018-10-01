@@ -21,3 +21,4 @@ Feito por:
 + Proteção de dano aos interiores.
 + Jogador fica procurado ao matar um funcionário.
 + O preço das Propriedades variam, conforme a valorização/desvalorização.
++ Falas para as funcionárias do burguer shot.

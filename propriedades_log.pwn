@@ -25,3 +25,4 @@ Feito por:
 + Tabela de preço para as armas, nas Ammu-Nation's.
 + H.I.B. (High Interactivity with Bots).
 + (5) Burguer-Shot's de LV.
++ (1) Cluckin' Bell de LV.

@@ -22,4 +22,4 @@ Feito por:
 + Jogador fica procurado ao matar um funcionário.
 + O preço das Propriedades variam, conforme a valorização/desvalorização.
 + Falas para as funcionárias do burguer shot.
-+ Tabela de preços para as armas, nas Ammu-Nation's.
++ Tabela de preço para as armas, nas Ammu-Nation's.

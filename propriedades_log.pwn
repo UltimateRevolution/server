@@ -26,4 +26,4 @@ Feito por:
 + H.I.B. (High Interactivity with Bots).
 + (5) Burguer-Shot's de LV.
 + (1) Cluckin' Bell de LV.
-+ (2) Ammu-Nation's de LV.
++ (2) Ammu-Nation's de LV. 

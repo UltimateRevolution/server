@@ -23,3 +23,5 @@ Feito por:
 + O preço das Propriedades variam, conforme a valorização/desvalorização.
 + Falas para as funcionárias do burguer shot.
 + Tabela de preço para as armas, nas Ammu-Nation's.
++ H.I.B. (High Interactivity with Bots).
++ (5) Burguer-Shot's de LV.
